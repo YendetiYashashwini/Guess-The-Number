@@ -27,7 +27,7 @@ Try to guess the number between 1 and 100 in just 10 attempts!
 
 ## 📸 Demo
 
-![Demo Screenshot](<img width="1912" height="896" alt="demo png" src="https://github.com/user-attachments/assets/c6b13133-870a-412d-8769-c817e37af641" />
+![Demo Screenshot](<img width="1912" height="896" alt="demo" src="https://github.com/user-attachments/assets/ffb60df9-ca74-4a24-b8c2-5d432dbdfe0f" />
 )
 
 ---
